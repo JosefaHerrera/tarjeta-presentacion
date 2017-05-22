@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 1440px;
+	height:723px;
+	background: pink;
+
+}
