@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: museo-sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: whitesmoke;
 }
 .caja{
@@ -72,4 +72,13 @@ position: relative;
 	bottom:70px;
 	font-family: Serif;
 	font-size: 35px;
+}
+#front{
+	color: #f9a91a;
+	position: relative;
+	left:950px;
+	bottom:1500px;
+	font-size: 37px;
+	
+	
 }
