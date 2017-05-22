@@ -1,7 +1,8 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-size: auto;
+	font-family: museo-sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: whitesmoke;
 }
 .caja{
 	width: 1440px;
@@ -15,8 +16,6 @@ body{
 .imagen{
 	width: 1440px;
 	height:723px;
-
-
 }
 
 .logoLab{
@@ -44,5 +43,14 @@ position: relative;
      left: 1340px;
      width: 100px;
      height:100px;
+
+}
+.nombre{
+	position: relative;
+	bottom:1500px;
+     left: 1000px;
+     width: 100px;
+     height:100px;
+     font-size: 30px;
 
 }
