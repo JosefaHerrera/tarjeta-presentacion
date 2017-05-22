@@ -1,11 +1,13 @@
 body{
 	margin: 0;
 	padding: 0;
+	background-size: auto;
 }
 .caja{
 	width: 1440px;
 	height:723px;
 	background-color: pink;
+
 	
 }
 
@@ -13,6 +15,8 @@ body{
 .imagen{
 	width: 1440px;
 	height:723px;
+
+
 }
 
 .logoLab{
@@ -21,4 +25,24 @@ body{
 	bottom:750px;
      left: 200px;
 	
+}
+
+.Trapecio {
+width: 490px;
+border-left: 500px solid transparent;
+
+border-bottom: 723px solid #3e3f40;
+
+position: relative;
+	bottom:865px;
+     left: 450px;
+}
+
+.logotipo{
+	position: relative;
+	bottom:965px;
+     left: 1340px;
+     width: 100px;
+     height:100px;
+
 }
