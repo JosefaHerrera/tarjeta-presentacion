@@ -5,6 +5,20 @@ body{
 .caja{
 	width: 1440px;
 	height:723px;
-	background: pink;
+	background-color: pink;
+	
+}
 
+
+.imagen{
+	width: 1440px;
+	height:723px;
+}
+
+.logoLab{
+	width: 400px;
+	position: relative;
+	bottom:750px;
+     left: 200px;
+	
 }
