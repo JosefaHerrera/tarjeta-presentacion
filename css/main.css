@@ -1,89 +1,93 @@
 body{
-	margin: 0;
-	padding: 0;
-	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: whitesmoke;
+	 margin: 0;
+	 padding: 0;
+	 font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	 color: whitesmoke;
+
 }
 .caja{
-	width: 1440px;
-	height:723px;
-	background-color: pink;
+	 width: 1440px;
+	 height:723px;
+	 background-color: pink;
+
 
 	
 }
 
 
 .imagen{
-	width: 1440px;
-	height:723px;
+	 width: 1440px;
+	 height:723px;
+
 }
 
 .logoLab{
-	width: 400px;
-	position: relative;
-	bottom:750px;
+	 width: 400px;
+	 position: relative;
+	 bottom:750px;
      left: 200px;
+     
 	
 }
 
 .Trapecio {
-width: 490px;
-border-left: 500px solid transparent;
-
-border-bottom: 723px solid #3e3f40;
-
-position: relative;
-	bottom:865px;
-     left: 450px;
+	 width: 490px;
+	 border-left: 500px solid transparent;
+	 border-bottom: 724px solid #3e3f40;
+	 position: relative;
+     bottom:867px;
+	 left: 450px;
 }
 
 .logotipo{
-	position: relative;
-	bottom:965px;
+	 position: relative;
+	 bottom:967px;
      left: 1340px;
      width: 100px;
      height:100px;
+     
 
 }
 .nombre{
-	position: relative;
-	bottom:1500px;
+	 position: relative;
+	 bottom:1500px;
      left: 1000px;
      width: 100px;
      height:100px;
      font-size: 30px;
 
+
 }
 #I{
-	position: relative;
-	left: 100px;
-	bottom: 35px;
+	 position: relative;
+	 left: 100px;
+	 bottom: 35px;
 }
 #H{
-	position: relative;
-	right: : 100px;
-	bottom:30px;
-	font-family: Serif;
-	font-size: 35px;
+	 position: relative;
+	 right: : 100px;
+	 bottom:30px;
+	 font-family: Serif;
+	 font-size: 35px;
 }
 #S{
-	position: relative;
-	left:120px;
-	bottom:70px;
-	font-family: Serif;
-	font-size: 35px;
+	 position: relative;
+	 left:120px;
+	 bottom:70px;
+	 font-family: Serif;
+	 font-size: 35px;
 }
 #front{
-	color: #f9a91a;
-	position: relative;
-	left:950px;
-	bottom:1500px;
-	font-size: 37px;
+	 color: #f9a91a;
+	 position: relative;
+	 left:950px;
+	 bottom:1500px;
+	 font-size: 37px;
 }
 .contacto{
-	position: relative;
-	left:900px;
-	bottom:1400px;
-	font-size:25px;
+	 position: relative;
+	 left:900px;
+	 bottom:1400px;
+	 font-size:25px;
 
 }
