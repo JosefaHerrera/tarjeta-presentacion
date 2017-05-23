@@ -3,18 +3,14 @@ body{
 	 padding: 0;
 	 font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	 color: whitesmoke;
+	 background: none;
 
 }
 .caja{
 	 width: 1440px;
 	 height:723px;
 	 background-color: pink;
-
-
-	
 }
-
-
 .imagen{
 	 width: 1440px;
 	 height:723px;
